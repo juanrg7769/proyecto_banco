@@ -1,0 +1,24 @@
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe.config
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\bin\Debug\Proyecto_Banco.pdb
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\obj\Debug\Proyecto_Banco.csprojResolveAssemblyReference.cache
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\obj\Debug\Proyecto_Banco.exe
+C:\Users\SALAFAR\Documents\SharpDevelop Projects\Proyecto_Banco\Proyecto_Banco\obj\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_Banco\obj\Debug\Proyecto_Banco.csprojResolveAssemblyReference.cache
+C:\Users\54116\Desktop\Proyecto_Banco\obj\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_Banco\obj\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe.config
+C:\Users\54116\Desktop\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_Banco\bin\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe.config
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\bin\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\bin\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\obj\Debug\Proyecto_Banco.csprojResolveAssemblyReference.cache
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\obj\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_banco_Com8_Galiano\Proyecto_Banco\obj\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\bin\Debug\Proyecto_Banco.exe.config
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\bin\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\bin\Debug\Proyecto_Banco.pdb
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\obj\Debug\Proyecto_Banco.csprojResolveAssemblyReference.cache
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\obj\Debug\Proyecto_Banco.exe
+C:\Users\54116\Desktop\Proyecto_Banco_Corregido\obj\Debug\Proyecto_Banco.pdb
